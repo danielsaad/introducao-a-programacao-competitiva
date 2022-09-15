@@ -1,9 +1,9 @@
 # Site settings
-course_name: "Teoria da Computação"
-course_description: "Disciplina de Teoria da Computação dos cursos superiores em Computação do IFB, campus Taguatinga."
+course_name: "Introdução à Programação Competitiva"
+course_description: "Disciplina de Introdução à Programação Competitiva do curso superior de Bacharelado em Ciência da Computação do IFB, campus Taguatinga."
 course_semester: "2022/2"
 
-baseurl: "/teoria-da-computacao" # the subpath of your site, e.g. /blog/
+baseurl: "/introducao-a-programacao-competitiva" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
 
 schoolname: "Instituto Federal de Educação, Ciência e Tecnologia de Brasília, campus Taguatinga"
