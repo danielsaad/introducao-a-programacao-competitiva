@@ -9,5 +9,7 @@ links:
       name: [Parte 1]
     - url: /assets/aulas/c-mais-maispara-pc-2.pdf
       name: [Parte 2]
+    - url: /assets/aulas/c-mais-maispara-pc-3.pdf
+      name: [Parte 3]
 ---
 
