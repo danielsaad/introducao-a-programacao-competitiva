@@ -6,6 +6,6 @@ tldr:
 thumbnail: /static_files/presentations/vjudge.jpeg
 links: 
     - url: https://vjudge.net/contest/518402
-      name: [Vjude]
+      name: [Vjudge]
 ---
 
