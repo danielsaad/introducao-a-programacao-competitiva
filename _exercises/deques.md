@@ -1,7 +1,7 @@
 ---
 type: exercise
 date: 2020-11-25T0:00:08-3:00
-title: "deques"
+title: "Deques"
 tldr: 
 thumbnail: /static_files/presentations/vjudge.jpeg
 links: 
